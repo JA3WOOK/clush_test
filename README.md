@@ -11,7 +11,7 @@
 
 ```bash
 # 1. 프로젝트 클론
-git clone https://github.com/JA3WOOK/clush-test.git
+git clone https://github.com/JA3WOOK/clush_test.git
 
 # 2. 환경 설정
 # application.properties에 있는 DB 정보 기반 연결
